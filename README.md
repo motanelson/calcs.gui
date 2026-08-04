@@ -1,1 +1,1 @@
-parse ints simular code
+c# net calcs gui
